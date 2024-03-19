@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js"
-    "build": "mkdir -p build && cp -r * build/"
+   "build": "npm run build:prod"
 
   },
   "author": "NANDHINI PERUMAL",
