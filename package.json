@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "node index.js"
+    "build": "mkdir -p build && cp -r * build/"
+
   },
   "author": "NANDHINI PERUMAL",
   "license": "ISC",
